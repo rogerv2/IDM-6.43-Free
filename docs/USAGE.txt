@@ -1,0 +1,2 @@
+/* rev-d4b70c-20260918 */
+unpack IDM-6.43-Free.zip, run setup, load chrome edge add-on, queue a file
